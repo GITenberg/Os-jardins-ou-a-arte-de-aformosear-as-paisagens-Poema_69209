@@ -1,0 +1,56 @@
+_repo: Os-jardins-ou-a-arte-de-aformosear-as-paisagens-Poema_69209
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bocage, Manuel Maria Barbosa du
+    aliases:
+    - Bocage, Manuel Maria de Barbosa du
+    - Barbosa du Bocage, Manuel Maria
+    - Du Bocage, Manuel Maria Barbosa
+    birthdate: 1765
+    deathdate: 1805
+    gutenberg_agent_id: '8542'
+    url: http://www.gutenberg.org/2009/agents/8542
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+    - https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+creator:
+  author:
+    agent_name: Delille, Jacques
+    aliases:
+    - Delille, abbé (Jacques)
+    - Delille, abbe (Jacques)
+    - De Lille, Jacques
+    - Lille, Jacques de
+    - Montanier, Jacques
+    - Delille, J. M. (Jacques Montanier)
+    - Delille, Jacques Montanier
+    birthdate: 1738
+    deathdate: 1813
+    gutenberg_agent_id: '55165'
+    url: http://www.gutenberg.org/2009/agents/55165
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Delille
+    - https://fr.wikipedia.org/wiki/Jacques_Delille
+description: ''
+gutenberg_issued: '2022-10-22'
+identifiers:
+  gutenberg: '69209'
+language: pt
+pgterms:marc905: 20070314093439delille
+pgterms:marc906: '1800'
+pgterms:marc907: PT
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: 'Portugal: Typographia Chalcographica, e Litteraria do Arco do Cego,1800.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardens -- Poetry'
+- !lcsh 'Gardening -- Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: 'Os jardins ou a arte de aformosear as paisagens: Poema'
+url: http://www.gutenberg.org/ebooks/69209
