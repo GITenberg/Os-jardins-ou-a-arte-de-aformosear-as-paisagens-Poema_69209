@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
     - https://en.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
+covers:
+- cover_type: archival
+  image_path: 69209-h/images/cover.jpg
 creator:
   author:
     agent_name: Delille, Jacques
@@ -33,6 +36,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jacques_Delille
     - https://fr.wikipedia.org/wiki/Jacques_Delille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69209#Os-jardins-ou-a-arte-de-aformosear-as-paisagens-Poema
 gutenberg_issued: '2022-10-22'
 identifiers:
   gutenberg: '69209'
